@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * main - check the code for ALX School students.
+ * main - create list and test insert allocations
  *
  * Return: Always 0.
  */
